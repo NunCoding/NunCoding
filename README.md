@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nunsay872@gmail.com**
 
-- 📄 Know about my experiences [1 year experience](1 year experience)
+- 📄 Know about my experiences (1 year experience)
 
 - ⚡ Fun fact **I funny**
 
