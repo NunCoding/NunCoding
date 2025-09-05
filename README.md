@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuncoding&label=Profile%20views&color=0e75b6&style=flat" alt="nuncoding" /> </p>
 
-- 🔭 I’m currently working on [Nun Portfolio]([https://github.com/NunCoding/assessment-knowledge.git](https://github.com/NunCoding/nun-portfolio))
+- 🔭 I’m currently working on [Nun Portfolio]([https://github.com/NunCoding/assessment-knowledge.git](https://github.com/NunCoding/nun-portfolio])
 
 - 🌱 I’m currently learning **Laravel**
 
