@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript,HTML,CSS,Laravel,Git**
 
-- 📫 How to reach me **nunsay872@gmail.com**
+- 📫 How to reach me **nunsian2024@gmail.com**
 
 - 📄 Know about my experiences (1 year experience)
 
